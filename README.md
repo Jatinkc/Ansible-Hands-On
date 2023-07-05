@@ -2,7 +2,7 @@
 
 # Implementation of Ansible on AWS EC2 instances 
 
-![Logo](logo)
+![Logo](https://github.com/Jatinkc/Ansible-Hands-On/blob/main/AWS.png)
 
 Hey folks,
 
