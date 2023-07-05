@@ -61,7 +61,6 @@ ansible all -m ping -i /home/ubuntu/ansible/hosts --private-key=~/.ssh/ansible_k
 
 ```
 -- To ping individual servers --
-# For selecting indivisual servers
 ansible server1:server2:server3 -m ping -i /home/ubuntu/ansible/hosts --private-key=~/.ssh/ansible_key
 ```
 
